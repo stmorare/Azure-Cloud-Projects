@@ -6,5 +6,6 @@
 
 This book provides knowledge of general concepts, projects, real-world use cases, and all the essential things you need to know about Microsoft Azure, which will hopefully help you with your day-to-day tasks and work as a developer, cloud architect, or whatever role you get within the cloud today.
 
-![Azure Cloud Projects](https://m.media-amazon.com/images/I/71DJYhf36iL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg)
+![Azure Cloud Projects](https://m.media-amazon.com/images/I/71DJYhf36iL._SL1500_.jpg)
 
+[Amazon](https://www.amazon.com/Azure-Cloud-Projects-hands-real-world/dp/183620423X)
