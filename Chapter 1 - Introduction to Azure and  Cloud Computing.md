@@ -25,3 +25,8 @@ Let’s look at some of its features:
 			  Directory**, allow businesses to manage user identities and control access to resources securely. This is particularly useful for organizations with stringent security requirements, such as **financial institutions or healthcare providers**.
 
 
+- **Integration**: 
+	- Azure seamlessly integrates with other Microsoft products and services, such as Office 365, Dynamics 365, and Active Directory.
+	- This integration simplifies the management of cloud and on-premises environments, providing a unified and cohesive experience.
+
+	- ***EXAMPLE***: a business using Office 365 for productivity can easily integrate it with Azure  Active Directory to manage user access and enhance security.
