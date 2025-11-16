@@ -9,3 +9,4 @@ This book provides knowledge of general concepts, projects, real-world use cases
 ![Azure Cloud Projects](https://m.media-amazon.com/images/I/71DJYhf36iL._SL1500_.jpg)
 
 [Amazon](https://www.amazon.com/Azure-Cloud-Projects-hands-real-world/dp/183620423X)
+

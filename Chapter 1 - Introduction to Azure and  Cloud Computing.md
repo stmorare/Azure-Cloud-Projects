@@ -1,4 +1,4 @@
-## What is Microsoft Azure?
+# What is Microsoft Azure?
 
  - **Microsoft Azure** is a comprehensive suite of cloud services designed to help organizations build, deploy, and manage applications through Microsoft-managed **data centers**.
  - Azure provides a highly flexible, scalable and open platform, supporting a broad selection of operating systems, programming languages, frameworks, databases, and devices.
@@ -36,3 +36,11 @@ Let’s look at some of its features:
 	- This integration simplifies the management of cloud and on-premises environments, providing a unified and cohesive experience.
 
 	- ***EXAMPLE***: a business using Office 365 for productivity can easily integrate it with Azure  Active Directory to manage user access and enhance security.
+	
+## Core Azure Services and Solutions
+
+1. ***Virtual Machines***: 
+	-  offer a flexible and scalable way to run applications in the cloud. You can create VMs with various operating systems, including Windows and Linux, and configure them with the resources needed for your applications.
+
+	 - ***EXAMPLE***: a development team can use VMs to create isolated environments for testing different software versions without impacting production systems. 
+ 
