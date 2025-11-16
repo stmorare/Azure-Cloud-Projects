@@ -45,7 +45,7 @@ Let’s look at some of its features:
 	- ***EXAMPLE***: a development team can use VMs to create isolated environments for testing different software versions without impacting production systems. 
 	 
 2.   ***Azure App Services***: 
-	- is a fully managed platform for **building**, **deploying**, and **scaling** web apps, mobile backends, and RESTful APIs. With App Services, you can **host applications** written in various languages, such as .NET, Java, Node.js, PHP, and Python. The platform handles infrastructure management, allowing you to focus on developing your application.
+	- is a fully managed platform for building, deploying, and scaling web apps, mobile backends, and RESTful APIs. With App Services, you can host applications written in various languages, such as .NET, Java, Node.js, PHP, and Python. The platform handles infrastructure management, allowing you to focus on developing your application.
 	  
 	  - ***EXAMPLE***: f you are developing a web application, you can use Azure App Services to deploy your app quickly, ensuring high availability and automatic scaling based on demand. The platform also integrates with popular development tools, such as Visual Studio and GitHub, to streamline your development workflow.
 3. 
