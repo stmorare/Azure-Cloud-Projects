@@ -55,4 +55,4 @@ Let’s look at some of its features:
 	-  a serverless compute service that enables you to run code on-demand without managing the underlying infrastructure.
 	- allows you to focus on writing code while Azure handles the infrastructure.
 
-	- ***EXAMPLE***: 
+	- ***EXAMPLE***: an e-commerce website can use Azure Functions to process orders as they are placed, automatically scaling to handle varying loads without any manual intervention.
