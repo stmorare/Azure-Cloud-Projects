@@ -8,3 +8,7 @@
 Let’s look at some of its features:
 
  - **Global reach**: 
+	 - Microsoft operates data centers in numerous regions worldwide, ensuring that Azure services are available wherever you need them.
+	 - This extensive network of data centers allows businesses to deploy applications closer to their customers, reducing latency and improving performance.
+
+	- EXAMPLE: 
