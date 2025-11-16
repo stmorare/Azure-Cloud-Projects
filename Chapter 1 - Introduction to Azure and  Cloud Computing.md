@@ -13,5 +13,7 @@ Let’s look at some of its features:
 
 	- ***EXAMPLE***: a global e-commerce company can use Azure’s data 
 			 centers in different regions to ensure that their website loads quickly for users in Europe, Asia, and North America.
+			 
+- **Scalability**: is the ability to increase or decrease computing resources, like servers and storage, to match demand.
 
 
