@@ -43,4 +43,7 @@ Let’s look at some of its features:
 	-  offer a flexible and scalable way to run applications in the cloud. You can create VMs with various operating systems, including Windows and Linux, and configure them with the resources needed for your applications.
 
 	 - ***EXAMPLE***: a development team can use VMs to create isolated environments for testing different software versions without impacting production systems. 
- 
+	 
+2.   ***Azure App Services***: 
+	- is a fully managed platform for building, deploying, and scaling web apps, mobile backends, and RESTful APIs. With App Services, you can host applications written in various languages, such as .NET, Java, Node.js, PHP, and Python. The platform handles infrastructure management, allowing you to focus on developing your application. 
+
