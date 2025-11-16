@@ -18,4 +18,10 @@ Let’s look at some of its features:
 
 	- ***EXAMPLE***: retail companies that experience spikes during holiday shopping seasons.
 
+-  **Security and compliance**: 
+	- Azure provides built-in security controls, identity management, and threat detection services.
+
+	- ***EXAMPLE***: Azure’s identity and access management (IAM) tools, such as Azure Active 
+			  Directory, allow businesses to manage user identities and control access to resources securely. This is particularly useful for organizations with stringent security requirements, such as financial institutions or healthcare providers.
+
 
