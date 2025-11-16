@@ -49,4 +49,10 @@ Let’s look at some of its features:
      - is a fully managed platform for building, deploying, and scaling web apps, mobile backends, and RESTful APIs. With App Services, you can host applications written in various languages, such as .NET, Java, Node.js, PHP, and Python. The platform handles infrastructure management, allowing you to focus on developing your application.
 	  
 	  - ***EXAMPLE***: if you are developing a web application, you can use Azure App Services to deploy your app quickly, ensuring high availability and automatic scaling based on demand. The platform also integrates with popular development tools, such as Visual Studio and GitHub, to streamline your development workflow.
-3. 
+
+3. ***Azure Functions***: 
+
+	-  a serverless compute service that enables you to run code on-demand without managing the underlying infrastructure.
+	- allows you to focus on writing code while Azure handles the infrastructure.
+
+	- ***EXAMPLE***: 
