@@ -11,9 +11,11 @@ Let’s look at some of its features:
 	 - Microsoft operates data centers in numerous regions worldwide, ensuring that Azure services are available wherever you need them.
 	 - This extensive network of data centers allows businesses to deploy applications closer to their customers, reducing latency and improving performance.
 
-	- ***EXAMPLE***: a global e-commerce company can use Azure’s data 
-			 centers in different regions to ensure that their website loads quickly for users in Europe, Asia, and North America.
+	- ***EXAMPLE***: a global e-commerce company can use Azure’s data centers in different regions to ensure that their website loads quickly for users in Europe, Asia, and North America.
 			 
-- **Scalability**: is the ability to increase or decrease computing resources, like servers and storage, to match demand.
+- **Scalability**: 
+	- You can easily adjust resources up or down based on demand, ensuring that you only pay for what you use.
+
+	- ***EXAMPLE***: retail companies that experience spikes during holiday shopping seasons.
 
 
