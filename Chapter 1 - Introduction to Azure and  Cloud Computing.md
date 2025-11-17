@@ -93,3 +93,5 @@ Let’s look at some of its features:
 	    - ***EXAMPLE***: a financial services company can use SQL Database to manage transaction data securely and efficiently. The service supports advanced features like automatic tuning, threat detection, and geo-replication to ensure optimal performance and security.
 	    
     - **Azure Cosmos DB**:  is a globally distributed, multi-model database service that provides turnkey global distribution and horizontal scaling. It is designed for applications that require low-latency access to data across multiple regions.
+
+        - ***EXAMPLE***: a social media platform can use Cosmos DB to store user profiles and activity logs, ensuring fast access regardless of the user’s location. Cosmos DB supports multiple data models, including document, key-value, graph, and column-family, making it a versatile choice for various use cases.
