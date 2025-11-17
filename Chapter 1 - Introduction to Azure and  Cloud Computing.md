@@ -12,7 +12,7 @@ Let’s look at some of its features:
 	 - This extensive network of data centers allows businesses to deploy applications closer to their customers, reducing latency and improving performance.
 
 	- ***EXAMPLE***: a global e-commerce company can use Azure’s data centers in different regions to ensure that their website loads quickly for users in Europe, Asia, and North America.
-			 
+ 
 - **Scalability**: 
 	- You can easily adjust resources up or down based on demand, ensuring that you only pay for what you use.
 
@@ -23,7 +23,6 @@ Let’s look at some of its features:
 
 	- ***EXAMPLE***: Azure’s **identity and access management (IAM)** tools, such as **Azure Active 
 			  Directory**, allow businesses to manage user identities and control access to resources securely. This is particularly useful for organizations with stringent security requirements, such as **financial institutions or healthcare providers**.
-
 
 - **Integration**: 
 	- Azure seamlessly integrates with other Microsoft products and services, such as Office 365, Dynamics 365, and Active Directory.
@@ -36,7 +35,7 @@ Let’s look at some of its features:
 	- This integration simplifies the management of cloud and on-premises environments, providing a unified and cohesive experience.
 
 	- ***EXAMPLE***: a business using Office 365 for productivity can easily integrate it with Azure  Active Directory to manage user access and enhance security.
-	
+
 ## Core Azure Services and Solutions
 
 1. ***Virtual Machines***: 
@@ -60,5 +59,4 @@ Let’s look at some of its features:
 4. ***Storage Services***:
 
 	- Azure’s storage services provide secure, scalable, and durable storage solutions for a wide range of data types and applications. You can learn more about Azure Storage Services and option on [Microsoft](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction). 
-	- 
 
