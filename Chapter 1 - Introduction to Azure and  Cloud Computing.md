@@ -59,7 +59,9 @@ Let’s look at some of its features:
 4. ***Storage Services***:
 - Here’s a few examples of **Azure Storage Services**:
 
-	1. **Azure Blob Storage**: Azure Blob Storage is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
-	- ***EXAMPLE***: a media company can use Blob Storage to store and stream video content to 
-				users worldwide. Blob Storage supports various access tiers, allowing you to balance cost and performance based on your needs. You can also integrate Blob Storage with other Azure services, such as Azure CDN, to enhance content delivery performance.
+	1. **Azure Blob Storage**: is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
+		- ***EXAMPLE***: a media company can use Blob Storage to store and stream video content to users worldwide. Blob Storage supports various access tiers, allowing you to balance cost and performance based on your needs. You can also integrate Blob Storage with other Azure services, such as Azure CDN, to enhance content delivery performance.
+	2. **Azure File Storage**: provides fully managed file shares in the cloud, accessible via the Server Message Block (SMB) protocol. This service is useful for scenarios where you need shared storage accessible from multiple virtual machines or applications.
+        - ***EXAMPLE***:
+
 
