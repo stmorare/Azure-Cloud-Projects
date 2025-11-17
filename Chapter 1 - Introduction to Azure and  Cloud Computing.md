@@ -77,3 +77,5 @@ Let’s look at some of its features:
 	    -  ***EXAMPLE***: you can use VNet to segment your applications into different subnets for better security and management. You can also establish secure connections between your on-premises network and Azure VNet using VPN Gateway or ExpressRoute.
 
 	2. **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
+
+		- ***EXAMPLE***: an online retail website can use Azure Load Balancer to distribute traffic across multiple web servers, ensuring that no single server becomes a bottleneck during peak shopping periods. This setup improves performance and provides fault tolerance.
