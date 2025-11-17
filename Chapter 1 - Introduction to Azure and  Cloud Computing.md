@@ -99,3 +99,4 @@ Let’s look at some of its features:
     - **Azure Database for MySQL and PostgreSQL**: offers managed database services for MySQL and PostgreSQL, providing scalable and secure database solutions for open-source database engines. These services are ideal for businesses that prefer using open-source databases but want to benefit from Azure’s management and scaling capabilities.
 
         - ***EXAMPLE***: a tech startup can use Azure Database for MySQL to manage their application’s backend database, leveraging built-in high availability and automated backups to ensure data integrity and uptime.
+
