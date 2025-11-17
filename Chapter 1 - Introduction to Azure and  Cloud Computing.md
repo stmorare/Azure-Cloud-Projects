@@ -63,5 +63,7 @@ Let’s look at some of its features:
 		- ***EXAMPLE***: a media company can use Blob Storage to store and stream video content to users worldwide. Blob Storage supports various access tiers, allowing you to balance cost and performance based on your needs. You can also integrate Blob Storage with other Azure services, such as Azure CDN, to enhance content delivery performance.
 	2. **Azure File Storage**: provides fully managed file shares in the cloud, accessible via the Server Message Block (SMB) protocol. This service is useful for scenarios where you need shared storage accessible from multiple virtual machines or applications.
         - ***EXAMPLE***: a global team working on a software project can use Azure File Storage to collaborate on code and documents, ensuring all team members have access to the latest versions.
+	3.  **Azure Disk Storage**: offers high-performance, durable block storage for use with Azure VMs. It is ideal for applications that require low-latency access to data, such as databases and enterprise applications.
+		- ***EXAMPLE***: 
 
 
