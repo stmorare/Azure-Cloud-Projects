@@ -95,3 +95,5 @@ Let’s look at some of its features:
     - **Azure Cosmos DB**:  is a globally distributed, multi-model database service that provides turnkey global distribution and horizontal scaling. It is designed for applications that require low-latency access to data across multiple regions.
 
         - ***EXAMPLE***: a social media platform can use Cosmos DB to store user profiles and activity logs, ensuring fast access regardless of the user’s location. Cosmos DB supports multiple data models, including document, key-value, graph, and column-family, making it a versatile choice for various use cases.
+
+    - **Azure Database for MySQL and PostgreSQL**: offers managed database services for MySQL and PostgreSQL, providing scalable and secure database solutions for open-source database engines. These services are ideal for businesses that prefer using open-source databases but want to benefit from Azure’s management and scaling capabilities.
