@@ -1,3 +1,6 @@
+---
+aliases:
+---
 # What is Microsoft Azure?
 
  - **Microsoft Azure** is a comprehensive suite of cloud services designed to help organizations build, deploy, and manage applications through Microsoft-managed **data centers**.
@@ -68,3 +71,6 @@ Let’s look at some of its features:
 	3.  **Azure Disk Storage**: offers high-performance, durable block storage for use with Azure VMs. It is ideal for applications that require low-latency access to data, such as databases and enterprise applications.
 		- ***EXAMPLE***: Game studios and financial firms, such as Pearl Abyss and BlackRock, leverage the extremely high throughput and sub-millisecond latency of Azure Ultra Disk Storage for data-intensive and latency-sensitive applications like online gaming or complex financial modeling.
 
+5. ***Networking Services***:
+    1. **Azure Virtual Network (VNet)**: enables you to create isolated networks within the Azure cloud. You have full control over IP address ranges, subnets, routing, and security settings, allowing you to design and manage your network infrastructure.
+	    -  ***EXAMPLE***: you can use VNet to segment your applications into different subnets for better security and management. You can also establish secure connections between your on-premises network and Azure VNet using VPN Gateway or ExpressRoute.
