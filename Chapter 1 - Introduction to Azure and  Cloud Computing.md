@@ -78,4 +78,4 @@ Let’s look at some of its features:
 
 	2. **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
 
-		- ***EXAMPLE***: an online retail website can use Azure Load Balancer to distribute traffic across multiple web servers, ensuring that no single server becomes a bottleneck during peak shopping periods. This setup improves performance and provides fault tolerance.
+		- ***EXAMPLE***: an **online retail website** can use Azure Load Balancer to distribute traffic across multiple web servers, ensuring that no single server becomes a bottleneck during peak shopping periods. This setup improves performance and provides fault tolerance.
