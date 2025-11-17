@@ -91,3 +91,5 @@ Let’s look at some of its features:
     - **Azure SQL Database**: is a fully managed relational database service built on SQL Server. It offers high availability, security, and performance, making it suitable for a wide range of applications, from small web apps to large enterprise solutions.
 
 	    - ***EXAMPLE***: a financial services company can use SQL Database to manage transaction data securely and efficiently. The service supports advanced features like automatic tuning, threat detection, and geo-replication to ensure optimal performance and security.
+	    
+    - **Azure Cosmos DB**:  is a globally distributed, multi-model database service that provides turnkey global distribution and horizontal scaling. It is designed for applications that require low-latency access to data across multiple regions.
