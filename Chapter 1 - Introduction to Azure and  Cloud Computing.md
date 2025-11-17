@@ -56,3 +56,5 @@ Let’s look at some of its features:
 	- allows you to focus on writing code while Azure handles the infrastructure.
 
 	- ***EXAMPLE***: an e-commerce website can use Azure Functions to process orders as they are placed, automatically scaling to handle varying loads without any manual intervention.
+
+4. ***Storage Services***: 
