@@ -75,3 +75,5 @@ Let’s look at some of its features:
     1. **Azure Virtual Network (VNet)**: enables you to create isolated networks within the Azure cloud. You have full control over IP address ranges, subnets, routing, and security settings, allowing you to design and manage your network infrastructure.
     
 	    -  ***EXAMPLE***: you can use VNet to segment your applications into different subnets for better security and management. You can also establish secure connections between your on-premises network and Azure VNet using VPN Gateway or ExpressRoute.
+
+	2. **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
