@@ -86,3 +86,6 @@ Let’s look at some of its features:
 	    
     - **Azure VPN Gateway and Azure ExpressRoute**: for secure and scalable connectivity between on-premises networks and Azure, **Azure VPN Gateway and Azure ExpressRoute** offer robust solutions. These services provide encrypted tunnels and dedicated private connections, ensuring secure data transfer between your on-premises infrastructure and Azure.
 
+6. ***Database Services***:
+
+    - **Azure SQL Database**: is a fully managed relational database service built on SQL Server. It offers high availability, security, and performance, making it suitable for a wide range of applications, from small web apps to large enterprise solutions.
