@@ -79,3 +79,8 @@ Let’s look at some of its features:
 	2. **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
 
 		- ***EXAMPLE***: an **online retail website** can use Azure Load Balancer to distribute traffic across multiple web servers, ensuring that no single server becomes a bottleneck during peak shopping periods. This setup improves performance and provides fault tolerance.
+
+	3. **Azure Content Delivery Network (CDN)**: is designed to deliver high-bandwidth content to users globally with low latency. It caches content at strategically located edge nodes around the world, ensuring fast delivery to users regardless of their geographic location.
+
+	    - ***EXAMPLE***: A media streaming service can use **Azure CDN** to distribute video content efficiently, reducing load times and improving the user experience. The CDN integrates seamlessly with **Azure Blob Storage**, making it easy to set up and manage.
+    4. **Azure VPN Gateway and Azure ExpressRoute**: for secure and scalable connectivity between on-premises networks and Azure, Azure VPN Gateway and Azure ExpressRoute offer robust solutions. These services provide encrypted tunnels and dedicated private connections, ensuring secure data transfer between your on-premises infrastructure and Azure.
