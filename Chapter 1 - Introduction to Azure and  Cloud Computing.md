@@ -57,6 +57,7 @@ Let’s look at some of its features:
 	- ***EXAMPLE***: an e-commerce website can use Azure Functions to process orders as they are placed, automatically scaling to handle varying loads without any manual intervention.
 
 4. ***Storage Services***:
+- Here’s a few examples of **Azure Storage Services**:
 
-	Azure’s storage services provide secure, scalable, and durable storage solutions for a wide range of data types and applications. You can learn more about Azure Storage Services and option on [Microsoft](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction).
+	1. **Azure Blob Storage**: Azure Blob Storage is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
 
