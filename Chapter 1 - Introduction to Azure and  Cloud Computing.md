@@ -58,5 +58,5 @@ Let’s look at some of its features:
 
 4. ***Storage Services***:
 
-	- Azure’s storage services provide secure, scalable, and durable storage solutions for a wide range of data types and applications. You can learn more about Azure Storage Services and option on [Microsoft](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction). 
+	Azure’s storage services provide secure, scalable, and durable storage solutions for a wide range of data types and applications. You can learn more about Azure Storage Services and option on [Microsoft](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction).
 
