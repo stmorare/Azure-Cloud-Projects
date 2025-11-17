@@ -62,26 +62,27 @@ Let’s look at some of its features:
 4. ***Storage Services***:
 - Here’s a few examples of **Azure Storage Services**:
 
-	1. **Azure Blob Storage**: is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
+	- **Azure Blob Storage**: is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
 		- ***EXAMPLE***: a media company can use Blob Storage to store and stream video content to users worldwide. Blob Storage supports various access tiers, allowing you to balance cost and performance based on your needs. You can also integrate Blob Storage with other Azure services, such as Azure CDN, to enhance content delivery performance.
 		
-	2. **Azure File Storage**: provides fully managed file shares in the cloud, accessible via the Server Message Block (SMB) protocol. This service is useful for scenarios where you need shared storage accessible from multiple virtual machines or applications.
+	- **Azure File Storage**: provides fully managed file shares in the cloud, accessible via the Server Message Block (SMB) protocol. This service is useful for scenarios where you need shared storage accessible from multiple virtual machines or applications.
         - ***EXAMPLE***: a global team working on a software project can use Azure File Storage to collaborate on code and documents, ensuring all team members have access to the latest versions.
         
-	3.  **Azure Disk Storage**: offers high-performance, durable block storage for use with Azure VMs. It is ideal for applications that require low-latency access to data, such as databases and enterprise applications.
+	- **Azure Disk Storage**: offers high-performance, durable block storage for use with Azure VMs. It is ideal for applications that require low-latency access to data, such as databases and enterprise applications.
 		- ***EXAMPLE***: Game studios and financial firms, such as Pearl Abyss and BlackRock, leverage the extremely high throughput and sub-millisecond latency of Azure Ultra Disk Storage for data-intensive and latency-sensitive applications like online gaming or complex financial modeling.
 
 5. ***Networking Services***:
-    1. **Azure Virtual Network (VNet)**: enables you to create isolated networks within the Azure cloud. You have full control over IP address ranges, subnets, routing, and security settings, allowing you to design and manage your network infrastructure.
+    - **Azure Virtual Network (VNet)**: enables you to create isolated networks within the Azure cloud. You have full control over IP address ranges, subnets, routing, and security settings, allowing you to design and manage your network infrastructure.
     
 	    -  ***EXAMPLE***: you can use VNet to segment your applications into different subnets for better security and management. You can also establish secure connections between your on-premises network and Azure VNet using VPN Gateway or ExpressRoute.
 
-	2. **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
+	- **Azure Load Balancer**: distributes incoming network traffic across multiple resources, ensuring high availability and reliability. It is essential for applications that require high uptime and can scale to handle varying loads.
 
 		- ***EXAMPLE***: an **online retail website** can use Azure Load Balancer to distribute traffic across multiple web servers, ensuring that no single server becomes a bottleneck during peak shopping periods. This setup improves performance and provides fault tolerance.
 
-	3. **Azure Content Delivery Network (CDN)**: is designed to deliver high-bandwidth content to users globally with low latency. It caches content at strategically located edge nodes around the world, ensuring fast delivery to users regardless of their geographic location.
+	- **Azure Content Delivery Network (CDN)**: is designed to deliver high-bandwidth content to users globally with low latency. It caches content at strategically located edge nodes around the world, ensuring fast delivery to users regardless of their geographic location.
 
 	    - ***EXAMPLE***: A media streaming service can use **Azure CDN** to distribute video content efficiently, reducing load times and improving the user experience. The CDN integrates seamlessly with **Azure Blob Storage**, making it easy to set up and manage.
 	    
-    4. **Azure VPN Gateway and Azure ExpressRoute**: for secure and scalable connectivity between on-premises networks and Azure, **Azure VPN Gateway and Azure ExpressRoute** offer robust solutions. These services provide encrypted tunnels and dedicated private connections, ensuring secure data transfer between your on-premises infrastructure and Azure.
+    - **Azure VPN Gateway and Azure ExpressRoute**: for secure and scalable connectivity between on-premises networks and Azure, **Azure VPN Gateway and Azure ExpressRoute** offer robust solutions. These services provide encrypted tunnels and dedicated private connections, ensuring secure data transfer between your on-premises infrastructure and Azure.
+
