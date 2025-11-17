@@ -61,9 +61,10 @@ Let’s look at some of its features:
 
 	1. **Azure Blob Storage**: is designed for storing large amounts of unstructured data, such as documents, images, videos, and backups. It is highly scalable and cost-effective, making it suitable for applications that require extensive data storage.
 		- ***EXAMPLE***: a media company can use Blob Storage to store and stream video content to users worldwide. Blob Storage supports various access tiers, allowing you to balance cost and performance based on your needs. You can also integrate Blob Storage with other Azure services, such as Azure CDN, to enhance content delivery performance.
+		
 	2. **Azure File Storage**: provides fully managed file shares in the cloud, accessible via the Server Message Block (SMB) protocol. This service is useful for scenarios where you need shared storage accessible from multiple virtual machines or applications.
         - ***EXAMPLE***: a global team working on a software project can use Azure File Storage to collaborate on code and documents, ensuring all team members have access to the latest versions.
+        
 	3.  **Azure Disk Storage**: offers high-performance, durable block storage for use with Azure VMs. It is ideal for applications that require low-latency access to data, such as databases and enterprise applications.
 		- ***EXAMPLE***: Game studios and financial firms, such as Pearl Abyss and BlackRock, leverage the extremely high throughput and sub-millisecond latency of Azure Ultra Disk Storage for data-intensive and latency-sensitive applications like online gaming or complex financial modeling.
-
 
