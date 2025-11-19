@@ -101,5 +101,6 @@ Let’s look at some of its features:
         - ***EXAMPLE***: a tech startup can use **Azure Database for MySQL** to manage their application’s backend database, leveraging built-in high availability and automated backups to ensure data integrity and uptime.
 
 ## Azure Regions & Availability Zones
-
 ![[Azure Region & Availability Zones-v1.png]]
+
+
