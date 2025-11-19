@@ -102,7 +102,4 @@ Let’s look at some of its features:
 
 ## Azure Regions & Availability Zones
 
-
-
-
-
+![[Azure Region & Availability Zones-v1.png]]
