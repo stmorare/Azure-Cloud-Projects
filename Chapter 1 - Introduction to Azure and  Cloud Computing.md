@@ -102,4 +102,4 @@ Let’s look at some of its features:
 
 ## Azure Regions & Availability Zones
 ![AR&AZ_diagram](Graphics/Azure-Region_&_Availability-Zones-v1.png)
-						 ***Graphics redone using Drawio***
+						 ***Graphics re-done using Drawio***
